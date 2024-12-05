@@ -579,7 +579,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241205225500 +0000" stop="20241205235500 +0000" channel="UKT">
+  <programme start="20241205225200 +0000" stop="20241205235100 +0000" channel="UKT">
     <title lang="en">Doc Martin</title>
     <sub-title lang="en">Driving Mr McLynn</sub-title>
     <desc lang="en">The Doc is appalled to discover that Louisa is moving furniture, and by her decision to interview for her old job as head teacher.</desc>
@@ -603,7 +603,7 @@
       <value>M | A,D</value>
     </rating>
   </programme>
-  <programme start="20241205235500 +0000" stop="20241206003000 +0000" channel="UKT">
+  <programme start="20241205235100 +0000" stop="20241206002900 +0000" channel="UKT">
     <title lang="en">Would I Lie to You?</title>
     <sub-title lang="en">Episode 5</sub-title>
     <desc lang="en">With guests Jo Brand, Lucy Martin, Amol Rajan and Joe Wilkinson.</desc>
@@ -864,7 +864,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241206093000 +0000" stop="20241206113000 +0000" channel="UKT">
+  <programme start="20241206093200 +0000" stop="20241206113300 +0000" channel="UKT">
     <title lang="en">Lewis</title>
     <sub-title lang="en">Whom The Gods Would Destroy</sub-title>
     <desc lang="en">When a middle-aged Oxford graduate is found dead near his run-down Oxford houseboat, Lewis and Hathaway are thrown into a delicate murder case.</desc>
@@ -1441,7 +1441,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241207133000 +0000" stop="20241207140000 +0000" channel="UKT">
+  <programme start="20241207132900 +0000" stop="20241207140100 +0000" channel="UKT">
     <title lang="en">EastEnders</title>
     <sub-title lang="en">Episode 7007</sub-title>
     <desc lang="en">Teddy tries to help a friend in need. Alfie attempts to build bridges in the Slater family. Barney returns from a visit with his mum.</desc>
@@ -1477,7 +1477,7 @@
       <value>PG</value>
     </rating>
   </programme>
-  <programme start="20241207143000 +0000" stop="20241207150000 +0000" channel="UKT">
+  <programme start="20241207143300 +0000" stop="20241207150500 +0000" channel="UKT">
     <title lang="en">EastEnders</title>
     <sub-title lang="en">Episode 7009</sub-title>
     <desc lang="en">Sparks fly on bonfire night. Harry enjoys putting pressure on Jack. Stacey and Jean offer sage advice.</desc>
@@ -7351,7 +7351,7 @@
       <value>M | V</value>
     </rating>
   </programme>
-  <programme start="20241208033500 +0000" stop="20241208043000 +0000" channel="F1S">
+  <programme start="20241208033000 +0000" stop="20241208043000 +0000" channel="F1S">
     <title lang="en">Hawaii Five-0</title>
     <sub-title lang="en">Hana Komo Pae</sub-title>
     <desc lang="en">While Danny chaperones Grace's winter formal, terrorists seize the venue and hold everyone hostage in order to kidnap a diplomat's son.</desc>
@@ -8123,7 +8123,7 @@
       <value>M | V,A</value>
     </rating>
   </programme>
-  <programme start="20241209123000 +0000" stop="20241209133000 +0000" channel="F1S">
+  <programme start="20241209124000 +0000" stop="20241209133500 +0000" channel="F1S">
     <title lang="en">Blue Bloods</title>
     <sub-title lang="en">Secrets and Lies</sub-title>
     <desc lang="en">Linda helps out Danny and Kate when she overhears important information related to their shooting case. Jamie is determined to track down the person who attacked Henry at an ATM.</desc>
@@ -18117,7 +18117,7 @@
       <value>M | V,A,S</value>
     </rating>
   </programme>
-  <programme start="20241209020000 +0000" stop="20241209030000 +0000" channel="SHC">
+  <programme start="20241209020000 +0000" stop="20241209030500 +0000" channel="SHC">
     <title lang="en">Dune: Prophecy</title>
     <sub-title lang="en">Twice Born</sub-title>
     <desc lang="en">As Tula attempts to understand the acolytes' shared dream, Valya sets her plan in motion to redeem House Harkonnen ahead of the Landsraad.</desc>
@@ -18374,7 +18374,7 @@
       <value>MA | H,D</value>
     </rating>
   </programme>
-  <programme start="20241209124500 +0000" stop="20241209135000 +0000" channel="SHC">
+  <programme start="20241209123000 +0000" stop="20241209133000 +0000" channel="SHC">
     <title lang="en">Dune: Prophecy</title>
     <sub-title lang="en">Twice Born</sub-title>
     <desc lang="en">As Tula attempts to understand the acolytes' shared dream, Valya sets her plan in motion to redeem House Harkonnen ahead of the Landsraad.</desc>
@@ -18393,7 +18393,7 @@
       <value>MA</value>
     </rating>
   </programme>
-  <programme start="20241209133000 +0000" stop="20241209140000 +0000" channel="SHC">
+  <programme start="20241209135000 +0000" stop="20241209142500 +0000" channel="SHC">
     <title lang="en">Somebody Somewhere</title>
     <sub-title lang="en">Agg</sub-title>
     <desc lang="en">Sam always feels like an outsider in her hometown Kansas. However, she later finds a community where people like her gather amidst their struggles in life.</desc>
@@ -18409,7 +18409,7 @@
     </video>
     <subtitles type="teletext"/>
     <rating system="ACMA">
-      <value>MA</value>
+      <value>M | L</value>
     </rating>
   </programme>
   <programme start="20241209142500 +0000" stop="20241209151500 +0000" channel="SHC">
@@ -18456,7 +18456,7 @@
       <value>MA | S</value>
     </rating>
   </programme>
-  <programme start="20241209153000 +0000" stop="20241209163000 +0000" channel="SHC">
+  <programme start="20241209154500 +0000" stop="20241209164000 +0000" channel="SHC">
     <title lang="en">The Knick</title>
     <sub-title lang="en">You're No Rose</sub-title>
     <desc lang="en">The acclaimed drama series about medicine, morality, and race relations at the turn of the 20th century is here with season two.</desc>
@@ -18579,7 +18579,7 @@
       <value>M | S,L</value>
     </rating>
   </programme>
-  <programme start="20241209190000 +0000" stop="20241209193000 +0000" channel="SHC">
+  <programme start="20241209190000 +0000" stop="20241209192500 +0000" channel="SHC">
     <title lang="en">Girls</title>
     <sub-title lang="en">Old Loves</sub-title>
     <desc lang="en">Hannah and Fran disagree about teaching methods, while Marnie fumes over Desi's latest project.</desc>
@@ -18603,7 +18603,7 @@
       <value>MA | S,L</value>
     </rating>
   </programme>
-  <programme start="20241209192500 +0000" stop="20241209195500 +0000" channel="SHC">
+  <programme start="20241209193000 +0000" stop="20241209200000 +0000" channel="SHC">
     <title lang="en">Girls</title>
     <sub-title lang="en">Queen For Two Days</sub-title>
     <desc lang="en">Hannah and her mum spend a weekend at a female-empowerment retreat; Shoshanna gets a surprise visitor in Japan; Jessa asks a favour of her sister.</desc>
@@ -18705,7 +18705,7 @@
       <value>MA | V,S,L</value>
     </rating>
   </programme>
-  <programme start="20241209230000 +0000" stop="20241210000000 +0000" channel="SHC">
+  <programme start="20241209224000 +0000" stop="20241209234000 +0000" channel="SHC">
     <title lang="en">Dune: Prophecy</title>
     <sub-title lang="en">Sisterhood Above All</sub-title>
     <desc lang="en">Years earlier, Tula worries about being accepted despite her family name, while Valya struggles with taking the Sisterhood vow.</desc>
@@ -34379,7 +34379,7 @@
     <sub-title lang="en">Everybody Takes a Beating Sometime</sub-title>
     <desc lang="en">Bell's family goes public with their lawsuit, which leads to almost-instant repercussions on the job.</desc>
     <credits>
-      <director>Jean De Segonzac</director>
+      <director>Jean de Segonzac</director>
       <actor>Christopher Meloni</actor>
       <actor>Danielle Mone Truitt</actor>
       <actor>Tamara Taylor</actor>
@@ -34783,7 +34783,7 @@
     <sub-title lang="en">Sound Bodies</sub-title>
     <desc lang="en">The investigation into a rash of arsenic related deaths in the close-knit community of Channel Island becomes more complicated when linked to the recent drowning of three teenage boys.</desc>
     <credits>
-      <director>Jean De Segonzac</director>
+      <director>Jean de Segonzac</director>
       <actor>Vincent D'Onofrio</actor>
       <actor>Kathryn Erbe</actor>
       <actor>Jamey Sheridan</actor>
